@@ -4,13 +4,21 @@
                     <meta charset="UTF-8" />
                     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                     <link rel="stylesheet" href="/style.css" />
-                    <title>Receita</title>
+                    <script src="js.js"></script>
+                    <title>Home</title>
           </head>
           <header class="header">
-                    <img src="/img/Receita.svg" alt="logo" class="logo" />
+                    <img
+                              src="/img/Receita.svg"
+                              alt="logo"
+                              class="logo"
+                              onclick="irParaIndex()"
+                              style="width: 400px; min-width: 300px; height: auto"
+                    />
+
                     <nav>
                               <ul class="menu">
-                                        <li><a href="#">Receita</a></li>
+                                        <li><a href="/receitas.html">Receitas</a></li>
                                         <li><a href="#">Sobre</a></li>
                                         <li><a href="#">Contato</a></li>
                               </ul>
@@ -18,14 +26,18 @@
           </header>
           <body>
                     <section class="conteudo">
-                              <div class="bloco1">
-                                        <p>Encontre e faça as melhores receitas num só lugar</p>
-                              </div>
-                              <div class="home">
-                                        <img src="/img/bolo-home.jpg" alt="home" />
+                              <div class="introducao">
+                                        <div class="bloco1">
+                                                  <p class="frase">
+                                                            Encontre e faça as melhores receitas num só lugar
+                                                            <a class="botao" href="receitas.html" >Veja!</a>
+                                                  </p>
+                                        </div>
+                                        <div class="home"><img src="/img/foto.png" alt="home" /></div>
                               </div>
                     </section>
-
-                    <footer></footer>
+                    <footer class="rodape">
+                              <p>Todos os direitos reservados</p>
+                    </footer>
           </body>
 </html>
