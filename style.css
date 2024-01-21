@@ -10,8 +10,6 @@ p,h1,h2,h3{
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    margin-right: 190px;
-    margin-bottom: 25px;
 }
 .logo{
     width: 100px; /* ou qualquer valor desejado em pixels */
@@ -111,7 +109,7 @@ img{
 }
 .mural{
     display: grid;
-    grid-template-columns: repeat(auto-fit , minmax(60px,1fr));
+    grid-template-columns: repeat(auto-fit , minmax(150px,fr));
     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.10); 
 }
 .galeria{
@@ -119,12 +117,14 @@ img{
     grid-template-columns: repeat(auto-fit , minmax(320px,1fr));
     margin: 0 auto;
     gap: 1rem;
+    
 }
 
 .subtitulo{
     background-color: #F5F5F5;
     text-align: end;
     padding: 0.8rem;
+    border-radius: 0px 0px 4px 4px;
 }
 .subtitulo a{
     color: #121413;
