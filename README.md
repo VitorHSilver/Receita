@@ -1,6 +1,6 @@
 # Criação do meu projeto pessoal
 
-- Um site reunindo de receitas simples a complexas tanto para 1 pessoa quanto para a família de forma minimalista e objetiva!
+- Um site reunindo de receitas simples a complexas tanto para uma pessoa quanto para a família de forma minimalista e objetiva!
 - Utilizando apenas HTML, CSS e FIGMA.
 
 ## [ReceitaBR.com.br](https://github.com/VitorHSilver/Receita)
