@@ -1,0 +1,24 @@
+/*   Fotos das receitas    */
+.mural{
+    display: grid;
+    grid-template-columns: repeat(auto-fit , minmax(150px,fr));
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.10); 
+}
+.galeria{
+    display: grid;
+    grid-template-columns: repeat(auto-fit , minmax(320px,1fr));
+    margin: 0 auto;
+    gap: 1rem;
+    
+}
+/*   Fotos das receitas    */
+.subtitulo{
+    background-color: #F5F5F5;
+    text-align: end;
+    padding: 0.8rem;
+    border-radius: 0px 0px 4px 4px;
+}
+.subtitulo a{
+    color: #121413;
+    font-size: 1.5rem;
+}
