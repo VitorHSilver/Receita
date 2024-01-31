@@ -1,6 +1,6 @@
 Criação do meu projeto pessoal
 
-Um site reunindo de receitas simples a complexas tanto para uma pessoa quanto para família de forma <b>minimalista e objetiva</b>
+Um site reunindo de receitas simples a complexas tanto para uma pessoa quanto para família de forma <b>minimalista e objetiva.</b>
 - HTML
 - CSS 
 - JavaScript
