@@ -1,7 +1,19 @@
-# Criação do meu projeto pessoal
+Criação do meu projeto pessoal
 
-- Um site reunindo de receitas simples a complexas tanto para uma pessoa quanto para a família de forma minimalista e objetiva!
-- Utilizando apenas HTML, CSS e FIGMA.
+Um site reunindo de receitas simples a complexas tanto para uma pessoa quanto para família de forma <b>minimalista e objetiva</b>
+- HTML
+- CSS 
+- JavaScript
+- Figma
 
-## [ReceitaBR.com.br](https://github.com/VitorHSilver/Receita)
-  ![Home](https://github.com/VitorHSilver/Receita/assets/117936669/4b1c1327-82e0-4631-ad34-196f714e65d4.png)
+# Receita
+![Home](https://github.com/VitorHSilver/Receita/blob/Casa/assets/telaInteira.png)
+
+## Pontuação
+![Pontuacao](https://github.com/VitorHSilver/Receita/blob/Casa/assets/pontuacao.png)
+
+## Responsividade - (IphoneSE 375x667  VS Ipad 820x1180)
+<p align="center">
+  <img src="https://github.com/VitorHSilver/Receita/blob/Casa/assets/iphoneSE%20375x667.png" alt="iphone" />
+  <img src="https://github.com/VitorHSilver/Receita/blob/Casa/assets/ipad%20Air%20820x1180.png" alt="ipad" />
+</p>
