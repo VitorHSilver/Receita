@@ -63,10 +63,10 @@ a{
   
   /*                       CONTEUDO                    */
   .conteudo{
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      display: flex;
-      align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    align-items: center;
     justify-content: flex-end;
     flex-wrap: wrap;
     position: relative; 
@@ -250,8 +250,6 @@ img{
 }
   /* R E S P O N S I V I D A D E */
 
-  
-  
 /*   Rodape    */
 .rodape{
     display:flex ;

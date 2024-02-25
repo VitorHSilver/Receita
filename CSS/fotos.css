@@ -9,6 +9,7 @@
     grid-template-columns: repeat(auto-fit , minmax(320px,1fr));
     margin: 0 auto;
     gap: 1rem;
+    padding-left: 0%;
     
 }
 /*   Fotos das receitas    */
