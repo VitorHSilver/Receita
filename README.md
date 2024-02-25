@@ -6,6 +6,9 @@ Um site reunindo de receitas simples a complexas tanto para uma pessoa quanto pa
 - JavaScript
 - Figma
 
+#Site Estático
+https://receita-br.vercel.app/index.html
+
 # Receita
 ![Home](https://github.com/VitorHSilver/Receita/blob/Casa/assets/telaInteira.png)
 
